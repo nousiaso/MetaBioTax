@@ -42,7 +42,6 @@ DIAMOND v2.1.8 (or later).
 Python 3 with required libraries (os, re, collections).
 Multi-core system (recommended: 20 CPU cores and 40GB RAM).
 Access to high-performance computing for large datasets.
-Running the Pipeline
 
 Clone the repository and ensure all dependencies are installed.
 Modify the SLURM directives as needed for your system.
