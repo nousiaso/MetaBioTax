@@ -46,3 +46,5 @@ Access to high-performance computing for large datasets.
 Clone the repository and ensure all dependencies are installed.
 Modify the SLURM directives as needed for your system.
 Provide the necessary input files (FASTQ reads and species lists).
+
+Check the Supplementary table for existing fastq ssequences. These can be used for testing purposes of the pipeline 
