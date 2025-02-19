@@ -1,5 +1,5 @@
 # MetaBioTax
-MetaBioTax is a metagenomics pipeline by Orestis Nousias (with eukaryotes in mind), designed to align Illumina and Nanopore reads, classify sequences taxonomically, and analyze biodiversity. It efficiently processes genomic data, generating taxonomic summaries and species counts for key taxa, optimized for large-scale metagenomic studies.
+MetaBioTax is a WGS (whole genome shotgun) metagenomics pipeline by Orestis Nousias (with eukaryotes in mind), designed to align Illumina and Nanopore reads, classify sequences taxonomically, and analyze biodiversity. It efficiently processes genomic data, generating taxonomic summaries and species counts for key taxa, optimized for large-scale metagenomic studies.
 
 Overview
 
