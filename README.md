@@ -11,7 +11,7 @@ Features
 
 Supports Multiple Sequencing Types: Aligns both paired-end Illumina reads and single-end Nanopore reads against the NR protein database.
 Taxonomic Classification: Annotates sequences with taxonomic data using the NCBI taxonomy database, providing a hierarchical breakdown of biodiversity.
-Species-Specific Analysis: Generates counts for species of interest (e.g., mammals and metazoans) from aligned sequences.
+Species-Specific Analysis: Generates counts for species of interest (e.g., from the mammals and metazoans broader groups) from aligned sequences.
 Customizable Parameters: Allows fine-tuning of alignment settings for enhanced sensitivity and specificity.
 Parallel Processing: Optimized to run on multi-core systems for fast and efficient data processing.
 Pipeline Workflow
