@@ -47,4 +47,4 @@ Clone the repository and ensure all dependencies are installed.
 Modify the SLURM directives as needed for your system.
 Provide the necessary input files (FASTQ reads and species lists).
 
-Running thie pipeline on a "normal" pc, is not advised. It will take multiple days to finish on 10 cores.
+Running thie pipeline on a "normal" pc, is not advised. It will take multiple days to finish on 10 cores even if the memory requirements are met.
