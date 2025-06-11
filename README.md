@@ -3,7 +3,7 @@ MetaBioTax is a WGS (whole genome shotgun sequencing) metagenomics pipeline by O
 
 Overview
 
-MetaBioTax is a comprehensive metagenomics pipeline designed to perform sequence alignment, taxonomic classification, and biodiversity analysis of both Illumina and Nanopore sequencing data. This pipeline efficiently processes genomic data, annotates taxonomic diversity, and generates detailed species-level summaries, offering an all-in-one solution for metagenomic and taxonomic biodiversity research.
+MetaBioTax is a comprehensive metagenomics pipeline designed to perform sequence alignment, taxonomic classification, and biodiversity analysis of both Illumina and Nanopore sequencing data. This pipeline processes genomic data, annotates taxonomic diversity, and generates detailed species-level summaries, offering an all-in-one solution for metagenomic and taxonomic biodiversity research.
 
 Author: Orestis Nousias
 
