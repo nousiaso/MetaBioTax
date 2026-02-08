@@ -36,6 +36,8 @@ Output
 Aligned Data: DIAMOND alignment files in DAA format.
 Taxonomic Summaries: A summary of taxonomic data for specific taxa in summary.txt.
 Species Counts: Mammal and metazoan species counts in mammal_counts.txt and metazoa_count.txt, respectively.
+
+
 System Requirements
 
 DIAMOND v2.1.8 (or later).
