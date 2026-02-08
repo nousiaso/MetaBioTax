@@ -48,3 +48,5 @@ Modify the SLURM directives as needed for your system.
 Provide the necessary input files (FASTQ reads and species lists).
 
 Running this pipeline on a "normal" pc, is not advised. It will take multiple days to finish on 10 cores even if the memory requirements are met.
+
+*I have to stress that we do not live in an ideal genomics world with perfect databases and species equally represented in them and the sequences contain almost 0 errors
